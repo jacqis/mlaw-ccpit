@@ -7,17 +7,16 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: News
-    url: /news/
-  - title: Past Conference
-    url: /past-conference/
-  - title: Speakers And Moderators
-    url: /speakers-and-moderators/
   - title: Conference
     collection: conference
+  - title: Speakers And Moderators
+    url: /speakers-and-moderators/
   - title: Key Partners
     collection: key-partners
   - title: News
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
+  - title: Past Conference
+    url: /past-conference/
+
