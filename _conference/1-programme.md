@@ -22,10 +22,10 @@ Types of Licence or Registration
 <table>
   <tr>
     <th>
-      <p style="text-align: justify"><b>Content</b></p>
+      <p style="text-align: justify"><b>Time</b></p>
     </th>
     <th>
-      <p style="text-align: justify"><b>Time</b></p>
+      <p style="text-align: justify"><b>Content</b></p>
     </th>
   </tr>
   <tr>
