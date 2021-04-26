@@ -3,21 +3,6 @@ title: Programme
 permalink: /conference/programme/
 ---
 
-title: 'Types of Licence or Registration'
-permalink: /law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/
-breadcrumb: 'Types of Licence or Registration'
-third_nav_title: 'Licensing Or Registration Of Law Practice Entities'
-
----
-
-<style>
-table tr td ul li {font-size: 1rem;}
-  table tr td p {font-size: 1rem;}
-  table tr th p {font-size: 1rem;}
-</style>
-
-Types of Licence or Registration
----
 
 <table>
   <tr>
