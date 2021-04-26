@@ -31,7 +31,7 @@ Types of Licence or Registration
   </tr>
   <tr>
     <td><p style="text-align: justify"><b>9.30am to 10.30am</b></p></td>
-    <td>Opening Ceremony
+    <td><b>Opening Ceremony</b>
       <ul>
         <p style="text-align: justify">Hybrid, with in-person and digital audience</p><br>
         <p style="text-align: justify"><b>Short opening remarks by Moderator</b></p>
@@ -59,7 +59,7 @@ Types of Licence or Registration
   </tr>
     <tr>
       <td><p style="text-align: justify"><b>10.45am to 11.00am</b></p></td>
-      <td><p style="text-align: justify">Tea Break</p>
+      <td><p style="text-align: justify"><b>Tea Break</b></p>
       </td>
   </tr>
     <tr>
