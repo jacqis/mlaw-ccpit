@@ -10,7 +10,6 @@ third_nav_title: 'Licensing Or Registration Of Law Practice Entities'
 
 ---
 
-
 <style>
 table tr td ul li {font-size: 1rem;}
   table tr td p {font-size: 1rem;}
@@ -30,10 +29,10 @@ Types of Licence or Registration
     </th>
   </tr>
   <tr>
-    <td><p style="text-align: justify"><b>9.30am to 10.30am</b></p></td>
+    <td><p style="text-align: justify"><b>9.30am - 10.30am</b></p></td>
     <td><b>Opening Ceremony</b>
       <ul>
-        <p style="text-align: justify">Hybrid, with in-person and digital audience</p><br>
+        <p style="text-align: justify"><i>Hybrid, with in-person and digital audience</i></p><br>
         <p style="text-align: justify"><b>Short opening remarks by Moderator</b></p>
         <p style="text-align: justify">Moderated by CCPIT Vice Chairman Lu Pengqi</p><br>
       	<p style="text-align: justify"><b>Speech by Singapore Guest of Honour</b></p>
@@ -47,7 +46,7 @@ Types of Licence or Registration
     </td>
   </tr>
   <tr>
-    <td><p style="text-align: justify"><b>10.30am to 10.45am</b></p></td>
+    <td><p style="text-align: justify"><b>10.30am - 10.45am</b></p></td>
     <td><p style="text-align: justify"><b>MOU Signing Ceremony</b></p>
       <ul>
         <p style="text-align: justify"><b>MOU between MinLaw and CCPIT on organising joint annual conference</b></p>
@@ -58,12 +57,12 @@ Types of Licence or Registration
     </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>10.45am to 11.00am</b></p></td>
+      <td><p style="text-align: justify"><b>10.45am - 11.00am</b></p></td>
       <td><p style="text-align: justify"><b>Tea Break</b></p>
       </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>11.00am to 12.00pm</b></p></td>
+      <td><p style="text-align: justify"><b>11.00am - 12.00pm</b></p></td>
       <td><p style="text-align: justify"><b>Panel discussion topic: Multiple Functions of Prevention Mechanisms in International Commercial Disputes</b></p>
       <ul>
         <p style="text-align: justify">Moderator: Dr. Chen Jian, Full-time Standing Deputy Secretary-General of China Academy of Arbitration Law</p>
@@ -72,7 +71,7 @@ Types of Licence or Registration
     </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>2.00pm to 3.00pm</b></p></td>
+      <td><p style="text-align: justify"><b>2.00pm - 3.00pm</b></p></td>
       <td><p style="text-align: justify"><b>Panel discussion topic: Opportunities and Challenges of the Multifaceted International Commercial Dispute Resolution Mechanisms</b></p>
       <ul>
         <p style="text-align: justify">Moderator: Representative from Singapore</p>
@@ -80,7 +79,7 @@ Types of Licence or Registration
       </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>3.00pm to 4.00pm</b></p></td>
+      <td><p style="text-align: justify"><b>3.00pm - 4.00pm</b></p></td>
       <td><p style="text-align: justify"><b>Panel discussion topic: The Future of Technology and Artificial Intelligence in Courts</b></p>
       <ul>
       <p style="text-align: justify">Moderator: Representative from Singapore</p>
