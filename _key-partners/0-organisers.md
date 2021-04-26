@@ -17,9 +17,6 @@ MinLaw also oversees land policy and administration, and the development of Sing
 For more information, please visit MinLaw’s website here.
 
 
-**Maxwell Chambers**<bv>
-
-Maxwell Chambers is the world’s first integrated dispute resolution complex, international alternative dispute resolution (ADR) institutions housing both best-of-class hearing facilities as well as top international ADR institutions. Centrally located in the heart of Singapore’s business district, it is housed within a refurbished four storey conserved building with a stately neoclassical façade. It was originally designed as the Customs House in the early 1940s. Maxwell Chambers offers ten custom-designed and fully-equipped hearing rooms and twelve preparation rooms, together with a full suite of supporting services. The facilities can also be used for meetings, seminars and conferences.
 
 ## China 
 **China Council for the Promotion of International Trade Department of Legal Affairs**<bv>
