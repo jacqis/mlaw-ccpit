@@ -68,7 +68,8 @@ table tr td ul li {font-size: 1rem;}
       <ul>
         <p style="text-align: justify">Moderator: Representative from Singapore</p>
         <p style="text-align: justify">Speakers: 1 Chinese speaker, 1 Singapore speaker and 2 international speakers</p>
-      </td>
+     </ul>
+    </td>
   </tr>
     <tr>
       <td><p style="text-align: justify"><b>3.00pm - 4.00pm</b></p></td>
@@ -76,7 +77,8 @@ table tr td ul li {font-size: 1rem;}
       <ul>
       <p style="text-align: justify">Moderator: Representative from Singapore</p>
       <p style="text-align: justify">Speakers: 2 speakers each from China and Singapore</p>
-        </td>
+    </ul>
+   </td>
   </tr>
     <tr>
       <td><p style="text-align: justify"><b>4.00pm – 4.30pm</b></p></td>
@@ -84,7 +86,8 @@ table tr td ul li {font-size: 1rem;}
       <ul>
       <p style="text-align: justify"><b>Speech by representative from China</b></p>
       <p style="text-align: justify"><b>Speech by representative from Singapore</b></p>
-        </td>
+    </ul>
+   </td>
   </tr>
 </table>
 
