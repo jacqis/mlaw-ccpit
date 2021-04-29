@@ -10,7 +10,7 @@ links:
   - title: Conference
     collection: conference
   - title: Speakers And Moderators
-    url: /speakers-and-moderators/
+    collection: speakers-and-moderators
   - title: Key Partners
     collection: key-partners
   - title: News
