@@ -4,7 +4,7 @@ permalink: /key-partners/organisers/
 ---
 <style>
   .img-gallery img {
-  max-width: 100%;
+  max-width: 50%;
   }
 </style>
 ## Singapore
