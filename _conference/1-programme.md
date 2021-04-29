@@ -88,6 +88,7 @@ table tr td ul li {font-size: 1rem;}
       <td><p style="text-align: justify"><b>4.00pm – 4.30pm</b></p></td>
       <td><p style="text-align: justify"><b>Closing Ceremony</b></p>
       <ul>
+      <p style="text-align: justify">Moderator: Representative from Singapore</p>
       <p style="text-align: justify"><b>Speech by representative from China</b></p>
       <p style="text-align: justify"><b>Speech by representative from Singapore</b></p>
     </ul>
