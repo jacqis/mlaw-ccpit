@@ -35,7 +35,7 @@ For more information, please visit MinLaw’s website [here](https://www.mlaw.go
 ## China 
 ### China Council for the Promotion of International Trade Department of Legal Affairs
 
-<div class="img-gallery">
+<div class="img-ccpit-logo">
   <img src="/images/ccpit-logo.png" title="CCPIT" alt="CCPIT">
 </div>
 
