@@ -36,7 +36,8 @@ Maxwell Chambers offers ten custom-designed and fully-equipped hearing rooms and
 
 ### The Law Society of Singapore (LawSoc)
 
-Established in 1967, The Law Society of Singapore is a body established under the Legal Profession Act and represents 5,800 lawyers in private practice in Singapore. It carries out various statutory functions prescribed under the Legal Profession Act, including:
+Established in 1967, The Law Society of Singapore is a body established under the Legal Profession Act and represents 5,800 lawyers in private practice in Singapore. It carries out various statutory functions prescribed under the Legal Profession Act, including:<br>
+
 a) maintaining and improving the standards of conduct and learning of the
 legal profession in Singapore,<br>
 
