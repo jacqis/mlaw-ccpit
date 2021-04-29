@@ -82,7 +82,7 @@ Yet, the SICC retains advantages of litigation like the availability of appeal a
 
 In essence, the SICC gives parties a truly unique dispute resolution option – which has been described by some as “arbitration in litigation”, combining the best practices of international arbitration with the substantive principles of international commercial law.
 
-For more information about the SICC, please visit [here](www.sicc.gov.sg) or email SICC_Development@supcourt.gov.sg.
+For more information about the SICC, please visit [www.sicc.gov.sg](www.sicc.gov.sg) or email SICC_Development@supcourt.gov.sg.
 
 ### Singapore International Mediation Centre (SIMC)
 
