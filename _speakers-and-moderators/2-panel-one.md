@@ -7,4 +7,6 @@ permalink: /speakers-and-moderators/panel-discussion-1/
 
 ## Moderator
 
-
+### Chen Jian<br>
+**Full-time Standing Deputy Secretary-General<br>
+China Academy of Arbitration Law**
