@@ -3,8 +3,8 @@ title: Organisers
 permalink: /key-partners/organisers/
 ---
 
-# Singapore
-## Ministry of Law Singapore
+## Singapore
+### Ministry of Law Singapore
 
 The mission of the Singapore Ministry of Law (MinLaw) is to advance access to justice, the rule of law, the economy and society through policy, law and services. 
 
