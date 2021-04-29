@@ -44,6 +44,7 @@ table tr td ul li {font-size: 1rem;}
     <td><p style="text-align: justify"><b>10.30am - 10.45am</b></p></td>
     <td><p style="text-align: justify"><b>MOU Signing Ceremony</b></p>
       <ul>
+        <p style="text-align: justify"><i>Hybrid, with in-person and digital audience</i></p><br>
         <p style="text-align: justify"><b>MOU between MinLaw and CCPIT on organising joint annual conference</b></p>
         <p style="text-align: justify">MOU moderator: CCPIT Director General of Legal Affairs Department Liu Chao</p>
         <p style="text-align: justify">Signees: MinLaw Deputy Secretary Calvin Phua and CCPIT Vice Chairman Lu Pengqi</p>
