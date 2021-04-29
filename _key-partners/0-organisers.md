@@ -5,7 +5,7 @@ permalink: /key-partners/organisers/
 <style>
   
   @media (max-width: 361px){
-    .img-logo img {
+    .content img {
         width: 100%; 
         } 
   } 
