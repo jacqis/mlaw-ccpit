@@ -22,5 +22,16 @@ Dr. Liu holds doctoral degree in Law and Economics and acts as an arbitrator of 
 Ministry of Law**
 
 ### Lu Pengqi
+**Vice Chairman<br>
+China Council for the Promotion of International Trade**<br>
+
 
 ## Witnesses 
+
+### Edwin Tong
+**Minister for Culture, Community and Youths and<br>
+Second Minister for Law**
+
+### Gao Yan
+**Chairman<br>
+China Council for the Promotion of International Trade**<br>
