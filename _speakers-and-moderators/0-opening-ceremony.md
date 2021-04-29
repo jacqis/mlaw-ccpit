@@ -7,7 +7,7 @@ permalink: /speakers-and-moderators/opening-ceremony/
 
 ### Lu Pengqi
 **Vice Chairman<br>
-China Council for the Promotion of International Trade**<br>
+China Council for the Promotion of International Trade<br>
 
 Dr. Lu Pengqi, a senior economist, was born in March 1965 in Yixian, Hebei Province. Dr. Lu started to work in January 1990 and joined the Party in April 1986. He gained the Doctor’s degree of Economics in Renmin University of China. He was named National Intellectual Property Leading Talent by the State Intellectual Property Office in December 2014.
 
