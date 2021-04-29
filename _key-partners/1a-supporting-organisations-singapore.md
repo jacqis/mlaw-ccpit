@@ -27,7 +27,7 @@ the law.<br>
 The Council of the Law Society, which consist of statutory and elected members, manages the affairs of the Law Society and ensures the proper
 performance of its functions.
 
-For more information on The Law Society of Singapore, please visit our website [here](www.lawsociety.org.sg) or e-mail lawsoc@lawsoc.org.sg.
+For more information on The Law Society of Singapore, please visit [www.lawsociety.org.sg](www.lawsociety.org.sg) or e-mail lawsoc@lawsoc.org.sg.
 
 ### Singapore Corporate Counsel Association (SCCA)
 
