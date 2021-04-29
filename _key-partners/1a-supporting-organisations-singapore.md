@@ -95,12 +95,12 @@ SIMC also has a panel of technical experts covering more than 20 industries. The
 
 The SIMC secretariat supports all administrative arrangements so parties can have a fruitful discussion.
 
-32 Maxwell Road #02-07
-Maxwell Chambers
-Singapore 069115
-Telephone: +65 6635 2460
-Email: secretariat@simc.com.sg
-Website: [www.simc.com.sg](www.simc.com.sg)
+32 Maxwell Road #02-07<br>
+Maxwell Chambers<br>
+Singapore 069115<br>
+Telephone: +65 6635 2460<br>
+Email: secretariat@simc.com.sg<br>
+Website: [www.simc.com.sg](www.simc.com.sg)<br>
 
 ### Singapore International Mediation Institute (SIMI)
 
