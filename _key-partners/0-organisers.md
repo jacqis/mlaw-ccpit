@@ -19,7 +19,6 @@ permalink: /key-partners/organisers/
 
 <div class="img-gallery">
   <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
-</div>
 
 The mission of the Singapore Ministry of Law (MinLaw) is to advance access to justice, the rule of law, the economy and society through policy, law and services. 
 
