@@ -3,24 +3,19 @@ title: Organisers
 permalink: /key-partners/organisers/
 ---
 <style>
-  .img-mlaw-logo {
-  width: 361px;
-  height: 143px;
-  max-width: 100%; 
-  }
   
-  .img-ccpit-logo {
-  width: 330px;
-  height: 310px;
-  max-width: 100%; 
-  }
+  @media (min-width: 361px){
+    .img-logo {
+        width: 100%; 
+        } 
+  } 
 
 </style>
 ## Singapore
 
 ### Ministry of Law Singapore
 
-<div class="img-mlaw-logo">
+<div class="img-logo">
   <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
 </div>
 
@@ -37,7 +32,7 @@ For more information, please visit MinLaw’s website [here](https://www.mlaw.go
 ## China 
 ### China Council for the Promotion of International Trade Department of Legal Affairs
 
-<div class="img-ccpit-logo">
+<div class="img-logo">
   <img src="/images/ccpit-logo.png" title="CCPIT" alt="CCPIT">
 </div>
 
