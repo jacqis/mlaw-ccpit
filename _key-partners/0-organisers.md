@@ -15,7 +15,7 @@ permalink: /key-partners/organisers/
 
 ## Singapore
 
-### Ministry of Law Singapore
+### **Ministry of Law Singapore**
 
 <div class="img-gallery">
   <img src="/images/mlaw-logo.png" title="MinLaw Singapore" alt="MinLaw Singapore">
