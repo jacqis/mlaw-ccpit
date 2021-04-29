@@ -3,15 +3,18 @@ title: Organisers
 permalink: /key-partners/organisers/
 ---
 <style>
-  .img-gallery img {
-  max-width: 50%;
+  .img-mlaw-logo {
+  width: 361px;
+  height: 143px;
+  max-width: 100%; 
   }
+
 </style>
 ## Singapore
 
 ### Ministry of Law Singapore
 
-<div class="img-gallery">
+<div class="img-mlaw-logo">
   <img src="/images/mlaw-logo.png" title="MinLaw SG" alt="MinLaw SG">
 </div>
 
