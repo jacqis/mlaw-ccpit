@@ -35,7 +35,7 @@ For more information, please visit MinLaw’s website [here](https://www.mlaw.go
 ### China Council for the Promotion of International Trade Department of Legal Affairs
 
 <div class="img-gallery">
-  <img src="/images/ccpit-logo.jpeg" title="CCPIT" alt="CCPIT">
+  <img src="/images/ccpit-logo.png" title="CCPIT" alt="CCPIT">
 </div>
 
 Legal Affairs Department of CCPIT was re-established on April 1, 2015 with five divisions. Its major responsibilities are coordinating legal affairs of CCPIT, organizing relevant industries and enterprises to cope with trade frictions so as to safeguard industrial safety, carrying out anti-trust related affairs, dealing with compliance related matters, putting forward suggestions on legislation and modification of laws, planning as a whole the intellectual property rights protection issues of CCPIT, routine operation management of government lawyers, promoting the development of international commercial dispute resolution mechanism and organization, participating in establishing the rules of relevant international organizations, conducting international legal communication and cooperation, and providing professional training to local CCPITs and enterprises.
