@@ -4,8 +4,8 @@ permalink: /key-partners/organisers/
 ---
 <style>
   .img-mlaw-logo {
-  width: 361
-  height: 143
+  width: 361px;
+  height: 143px;
   max-width: 100%; 
   }
   
