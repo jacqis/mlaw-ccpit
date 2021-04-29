@@ -5,10 +5,14 @@ permalink: /key-partners/organisers/
 <style>
   
   @media (max-width: 361px){
-    .content img {
+    .img-logo img {
         width: 100%; 
         } 
   } 
+  
+  .img-logo {
+    width: 361px; 
+    }
 
 </style>
 ## Singapore
