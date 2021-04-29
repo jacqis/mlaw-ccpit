@@ -22,7 +22,7 @@ colors:
 collections:
   conference:
     output: true
-  speakers and moderators:
+  speakers-and-moderators:
     output: true
   key-partners:
     output: true
