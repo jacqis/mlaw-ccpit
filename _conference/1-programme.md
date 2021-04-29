@@ -9,9 +9,10 @@ table tr td ul li {font-size: 1rem;}
   table tr th p {font-size: 1rem;}
 </style>
 
----
 
 ## Programme Outline
+
+---
 
 <table>
   <tr>
