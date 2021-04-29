@@ -2,17 +2,11 @@
 title: Organisers
 permalink: /key-partners/organisers/
 ---
-
 <style>
-  .img-gallery {
-  width: 200px;
-  height: 250px;
-  }
   .img-gallery img {
   max-width: 100%;
   }
 </style>
-
 ## Singapore
 
 ### Ministry of Law Singapore
