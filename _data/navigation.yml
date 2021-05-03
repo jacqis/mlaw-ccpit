@@ -19,4 +19,6 @@ links:
     url: /contact-us/
   - title: Past Conference
     url: /past-conference/
+  - title: 中文
+    url: 'https://mlaw-ccpit-cn-staging.netlify.app/'
 
