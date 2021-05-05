@@ -30,6 +30,10 @@ Maxwell Chambers offers ten custom-designed and fully-equipped hearing rooms and
 
 ### The Law Society of Singapore (LawSoc)
 
+<div class="img-logo">
+  <img src="/images/lawsoc-sg-logo.jpeg" title="LawSoc SG" alt="LawSoc SG">
+</div>
+
 Established in 1967, The Law Society of Singapore is a body established under the Legal Profession Act and represents 5,800 lawyers in private practice in Singapore. It carries out various statutory functions prescribed under the Legal Profession Act, including:<br>
 
 • Maintaining and improving the standards of conduct and learning of the
@@ -48,11 +52,19 @@ For more information on The Law Society of Singapore, please visit [www.lawsocie
 
 ### Singapore Corporate Counsel Association (SCCA)
 
+<div class="img-logo">
+  <img src="/images/scca-logo.png" title="SCCA" alt="SCCA">
+</div>
+
 Established in 2002, the Singapore Corporate Counsel Association is the national organisation for corporate counsel in Singapore. SCCA promotes professional standards and provides developmental opportunities to help in-house lawyers in Singapore be Better Counsel. SCCA believes that Better Counsel make Better Corporations, and, in turn, Better Corporations make Better Communities.
 
 The executive committee of the SCCA is made up of volunteer in-house lawyers, and they are advised by SCCA’s Patron, the Attorney General of Singapore, who is also the chairman of the Board of Advisors. In 2017, SCCA launched its Competency Framework and Code of Conduct for corporate counsel.
 
 ### Singapore Chamber of Maritime Arbitration (SCMA)
+
+<div class="img-logo">
+  <img src="/images/scma-logo.jpeg" title="SCMA" alt="SCMA">
+</div>
 
 The Singapore Chamber of Maritime Arbitration (SCMA) is one of Asia’s leading arbitration centres. SCMA provides a framework for maritime and international trade arbitration that is responsive to the needs of users. Together with SCMA’s specialized Panel of Arbitrators and proven track record, SCMA offers parties a neutral and cost-effective forum to resolve their disputes expeditiously.
 
@@ -74,6 +86,10 @@ SCMA’s Advantage and Distinctive Features:<br>
 
 ### Singapore International Arbitration Centre (SIAC)
 
+<div class="img-logo">
+  <img src="/images/siac-logo.jpeg" title="SIAC" alt="SIAC">
+</div>
+
 Since commencing operations in 1991 as an independent, not-for-profit organisation, SIAC has established a track record for providing best in class arbitration services to the global business community. SIAC arbitration awards have been enforced in many jurisdictions including Australia, China, Hong Kong SAR, India, Indonesia, Jordan, Thailand, UK, USA and Vietnam, amongst other New York Convention signatories. SIAC is a global arbitral institution providing cost-competitive and efficient case management services to parties from all over the world.
 
 SIAC’s Board of Directors and its Court of Arbitration consists of eminent lawyers and professionals from all over the world. The Board is responsible for overseeing SIAC’s operations, business strategy and development, as well as corporate governance matters.
@@ -87,6 +103,10 @@ SIAC supervises and monitors the progress of the case. SIAC’s scrutiny process
 SIAC’s administration fees are highly competitive.
 
 ### Singapore International Commercial Court (SICC)
+
+<div class="img-logo">
+  <img src="/images/sicc-logo.png" title="SICC" alt="SICC">
+</div>
 
 The Singapore International Commercial Court (SICC) was established in 2015 to meet the growing demand for effective transnational dispute resolution services, especially in light of burgeoning business and trade in Asia and beyond. Due to Singapore’s strategic location in the Asia Pacific region, the SICC is well-placed to provide a trusted neutral venue in support of the diverse Belt and Road Initiatives as our world-class judiciary is known for its efficiency, competence and integrity. The SICC bench comprises a diverse panel of eminent international and local judges who are experienced specialist commercial judges in their own right. Our 16 renowned international judges hail from various parts of the world and come from both civil law and common law traditions.
 
@@ -102,6 +122,10 @@ In essence, the SICC gives parties a truly unique dispute resolution option – 
 For more information about the SICC, please visit [www.sicc.gov.sg](www.sicc.gov.sg) or email SICC_Development@supcourt.gov.sg.
 
 ### Singapore International Mediation Centre (SIMC)
+
+<div class="img-logo">
+  <img src="/images/simc-logo.jpeg" title="SIMC" alt="SIMC">
+</div>
 
 The Singapore International Mediation Centre is a not-for-profit organisation that offers professional dispute resolution services tailored to the needs of
 businesses in Asia.
