@@ -45,7 +45,7 @@ Legal Affairs Department of CCPIT was re-established on April 1, 2015 with five 
 
 ### China Council for the Promotion of International Trade Mediation Center
 
-<div class="img-ccpit-logo">
+<div class="img-logo">
   <img src="/images/ccpit-mediation-center-logo.jpeg" title="CCPIT Mediation Center" alt="CCPIT Mediation Center">
 </div>
   
