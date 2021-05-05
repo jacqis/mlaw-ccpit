@@ -29,14 +29,14 @@ table tr td ul li {font-size: 1rem;}
       <ul>
         <p style="text-align: justify"><i>Hybrid, with in-person and digital audience</i></p><br>
         <p style="text-align: justify"><b>Short opening remarks by Moderator</b></p>
-        <p style="text-align: justify">Moderated by CCPIT Vice Chairman Lu Pengqi</p><br>
+        <p style="text-align: justify">Moderated by CCPIT Vice Chairman Mr Lu Pengqi</p><br>
       	<p style="text-align: justify"><b>Speech by Singapore Guest of Honour</b></p>
-     	  <p style="text-align: justify">Singapore: Minister for Culture, Community and Youths and Second Minister for Law Edwin Tong</p><br>
+     	  <p style="text-align: justify">Singapore: Minister for Culture, Community and Youths and Second Minister for Law Mr Edwin Tong</p><br>
         <p style="text-align: justify"><b>Speech by Chinese Guest of Honour</b></p>
- 	      <p style="text-align: justify">China: CCPIT Chairperson Gao Yan/other ministerial level rep</p><br>
+ 	      <p style="text-align: justify">China: CCPIT Chairperson Ms Gao Yan/other ministerial level rep</p><br>
         <p style="text-align: justify"><b>Speech by Singapore speaker</b></p><br>
       	<p style="text-align: justify"><b>Speech by China speaker</b></p>
-      	<p style="text-align: justify">ICDPASO Honorary Chairperson Justice Zhang Yuejiao</p>
+      	<p style="text-align: justify">ICDPASO Honorary Chairperson Prof. Zhang Yuejiao</p>
      </ul>
     </td>
   </tr>
@@ -46,9 +46,9 @@ table tr td ul li {font-size: 1rem;}
       <ul>
         <p style="text-align: justify"><i>Hybrid, with in-person and digital audience</i></p><br>
         <p style="text-align: justify"><b>MOU between MinLaw and CCPIT on organising joint annual conference</b></p>
-        <p style="text-align: justify">MOU moderator: CCPIT Director General of Legal Affairs Department Liu Chao</p>
-        <p style="text-align: justify">Signees: MinLaw Deputy Secretary Calvin Phua and CCPIT Vice Chairman Lu Pengqi</p>
- 	      <p style="text-align: justify">Witnesses: Min(CCY)&2M(Law) Edwin Tong and CCPIT Chairperson Gao Yan</p>
+        <p style="text-align: justify">MOU moderator: CCPIT Director General of Legal Affairs Department Mr Liu Chao</p>
+        <p style="text-align: justify">Signees: MinLaw Deputy Secretary Mr Calvin Phua and CCPIT Vice Chairman Mr Lu Pengqi</p>
+ 	      <p style="text-align: justify">Witnesses: Min(CCY)&2M(Law) Mr Edwin Tong and CCPIT Chairperson Ms Gao Yan</p>
       </ul>
     </td>
   </tr>
