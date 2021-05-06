@@ -10,7 +10,6 @@ sections:
         title: Singapore-China International Dispute Resolution Conference 2021
         subtitle: 中新国际商事争端解决论坛 2021
         background: /images/icdrc-banner.jpeg
-        button: Contact Us
         url: /contact-us/
         key_highlights:
             - title: Conference Livestream (EN)
