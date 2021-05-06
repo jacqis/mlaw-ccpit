@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        background: /images/icdrc-banner.jpeg
+        background: /images/icdrc-banner.jpg
         url: /contact-us/
         key_highlights:
             - title: Conference Livestream (EN)
