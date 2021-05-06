@@ -7,8 +7,6 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Singapore-China International Dispute Resolution Conference 2021
-        subtitle: 中新国际商事争端解决论坛 2021
         background: /images/icdrc-banner.jpeg
         url: /contact-us/
         key_highlights:
