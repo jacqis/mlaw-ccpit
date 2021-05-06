@@ -1,7 +1,5 @@
-- hero:
-    title: Singapore-China International Commercial Dispute Resolution Conference 2021
-    background: /images/icdrc-banner.jpeg
-    url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Singapore-China International Commercial Dispute Resolution Conference 2021
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 # Site colors
