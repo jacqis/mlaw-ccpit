@@ -37,6 +37,6 @@ China Council for the Promotion of International Trade**<br>
 
 Madame Gao Yan, having worked for 30 years in Chinese central ministries responsible for international economic cooperation and foreign trade, served as Chairperson of China Council for the Promotion of International Trade (CCPIT), Chinese national foreign trade and investment promotion agency founded in 1952 with a time-honored history and extensive international influence, since August 2018.
 
-Madame Gao Yan served as Vice Minister of Chinese Ministry of Commerce from 2013 to 2018, and served previously as Deputy Director-General of the Liaison Office of Chinese Central People’s Government in the Macao S.A.R. During her tenure, she played an important role in implementing openingup policy and in deepening international economic cooperation. Madame Gao also worked as Representative of Chinese Government in Japan’s Aichi World Expo.
+Madame Gao Yan served as Vice Minister of Chinese Ministry of Commerce from 2013 to 2018, and served previously as Deputy Director-General of the Liaison Office of Chinese Central People’s Government in the Macao S.A.R. During her tenure, she played an important role in implementing opening-up policy and in deepening international economic cooperation. Madame Gao also worked as Representative of Chinese Government in Japan’s Aichi World Expo.
 
 ## Speakers
