@@ -8,6 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         background: /images/icdrc-banner.jpg
+        button: Registration Form
         url: /contact-us/
         key_highlights:
             - title: Conference Livestream (EN)
