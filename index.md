@@ -11,15 +11,16 @@ sections:
         button: Registration Form
         url: /contact-us/
         key_highlights:
+            - title: Conference Livestream (Original Audio)
+              description: Click here to visit the conference livestream in Original Audio
+              url: https://google.com
             - title: Conference Livestream (EN)
               description: Click here to visit the conference livestream in English
               url: https://google.com
             - title: Conference Livestream (CN)
               description: Click here to visit the conference livestream in Chinese
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            
     - infobar:
         title: Infobar title
         subtitle: Subtitle
