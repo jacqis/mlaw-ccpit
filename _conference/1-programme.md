@@ -31,7 +31,7 @@ table tr td ul li {font-size: 1rem;}
         <p style="text-align: justify"><b>Short opening remarks by Moderator</b></p>
         <p style="text-align: justify">Moderated by CCPIT Vice Chairman Mr Lu Pengqi</p><br>
       	<p style="text-align: justify"><b>Speech by Singapore Guest of Honour</b></p>
-     	  <p style="text-align: justify">Singapore: Minister for Culture, Community and Youths and Second Minister for Law Mr Edwin Tong</p><br>
+     	  <p style="text-align: justify">Singapore: Minister for Culture, Community and Youth and Second Minister for Law Mr Edwin Tong</p><br>
         <p style="text-align: justify"><b>Speech by Chinese Guest of Honour</b></p>
  	      <p style="text-align: justify">China: CCPIT Chairperson Ms Gao Yan/other ministerial level rep</p><br>
         <p style="text-align: justify"><b>Speech by Singapore speaker</b></p><br>
