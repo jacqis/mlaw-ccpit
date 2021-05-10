@@ -29,7 +29,7 @@ China Council for the Promotion of International Trade**<br>
 ## Witnesses 
 
 ### Edwin Tong
-**Minister for Culture, Community and Youths and<br>
+**Minister for Culture, Community and Youth and<br>
 Second Minister for Law**
 
 ### Gao Yan
