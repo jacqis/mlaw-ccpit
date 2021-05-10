@@ -18,7 +18,7 @@ Dr. Lu has become Vice Chairman of the CCPIT since August 2014.
 ## Guest of Honour (Singapore)
 
 ### Edwin Tong
-**Minister for Culture, Community and Youths and<br>
+**Minister for Culture, Community and Youth and<br>
 Second Minister for Law**
 
 Mr Edwin Tong SC is the Minister for Culture, Community and Youth and Second Minister for Law. 
