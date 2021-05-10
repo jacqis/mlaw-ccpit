@@ -35,8 +35,9 @@ table tr td ul li {font-size: 1rem;}
         <p style="text-align: justify"><b>Speech by Chinese Guest of Honour</b></p>
  	      <p style="text-align: justify">China: CCPIT Chairperson Ms Gao Yan/other ministerial level rep</p><br>
         <p style="text-align: justify"><b>Speech by Singapore speaker</b></p><br>
+        <p style="text-align: justify">President of SICC and Judge of Appellate Court Justice Quentin Loh</p>
       	<p style="text-align: justify"><b>Speech by China speaker</b></p>
-      	<p style="text-align: justify">ICDPASO Honorary Chairperson Prof. Zhang Yuejiao</p>
+      	<p style="text-align: justify">ICDPASO Honorary Chairperson Justice Zhang Yuejiao</p>
      </ul>
     </td>
   </tr>
@@ -47,8 +48,8 @@ table tr td ul li {font-size: 1rem;}
         <p style="text-align: justify"><i>Hybrid, with in-person and digital audience</i></p><br>
         <p style="text-align: justify"><b>MOU between MinLaw and CCPIT on organising joint annual conference</b></p>
         <p style="text-align: justify">MOU moderator: CCPIT Director General of Legal Affairs Department Mr Liu Chao</p>
-        <p style="text-align: justify">Signees: MinLaw Deputy Secretary Mr Calvin Phua and CCPIT Vice Chairman Mr Lu Pengqi</p>
- 	      <p style="text-align: justify">Witnesses: Min(CCY)&2M(Law) Mr Edwin Tong and CCPIT Chairperson Ms Gao Yan</p>
+        <p style="text-align: justify">Signatories: MinLaw Deputy Secretary Mr Calvin Phua and CCPIT Vice Chairman Mr Lu Pengqi</p>
+ 	      <p style="text-align: justify">Witnesses: Min(CCY)&2M(Law) Mr Edwin Tong, CCPIT Chairperson Ms Gao Yan, Justice Quentin Loh and Justice Zhang Yuejiao</p>
       </ul>
     </td>
   </tr>
