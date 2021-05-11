@@ -33,7 +33,7 @@ table tr td ul li {font-size: 1rem;}
       	<p style="text-align: justify"><b>Speech by Singapore Guest of Honour</b></p>
      	  <p style="text-align: justify">Singapore: Minister for Culture, Community and Youth and Second Minister for Law Mr Edwin Tong</p><br>
         <p style="text-align: justify"><b>Speech by Chinese Guest of Honour</b></p>
- 	      <p style="text-align: justify">China: CCPIT Chairperson Ms Gao Yan/other ministerial level rep</p><br>
+ 	      <p style="text-align: justify">China: CCPIT Chairperson Mdm Gao Yan/other ministerial level rep</p><br>
         <p style="text-align: justify"><b>Speech by Singapore speaker</b></p><br>
         <p style="text-align: justify">President of SICC and Judge of Appellate Court Justice Quentin Loh</p>
       	<p style="text-align: justify"><b>Speech by China speaker</b></p>
@@ -49,13 +49,13 @@ table tr td ul li {font-size: 1rem;}
         <p style="text-align: justify"><b>MOU between MinLaw and CCPIT on organising joint annual conference</b></p>
         <p style="text-align: justify">MOU moderator: CCPIT Director General of Legal Affairs Department Mr Liu Chao</p>
         <p style="text-align: justify">Signatories: MinLaw Deputy Secretary Mr Calvin Phua and CCPIT Vice Chairman Mr Lu Pengqi</p>
- 	      <p style="text-align: justify">Witnesses: Min(CCY)&2M(Law) Mr Edwin Tong, CCPIT Chairperson Ms Gao Yan, Justice Quentin Loh and Justice Zhang Yuejiao</p>
+ 	      <p style="text-align: justify">Witnesses: Min(CCY)&2M(Law) Mr Edwin Tong, CCPIT Chairperson Mdm Gao Yan, Justice Quentin Loh and Justice Zhang Yuejiao</p>
       </ul>
     </td>
   </tr>
     <tr>
       <td><p style="text-align: justify"><b>10.45am - 11.00am</b></p></td>
-      <td><p style="text-align: justify"><b>Tea Break</b></p>
+      <td><p style="text-align: justify"><b>Streaming of videos from organisers and supporting organisations</b></p>
       </td>
   </tr>
     <tr>
