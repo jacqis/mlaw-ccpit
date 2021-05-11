@@ -68,7 +68,7 @@ table tr td ul li {font-size: 1rem;}
     </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>2.00pm - 3.00pm</b></p></td>
+      <td><p style="text-align: justify"><b>12.00pm - 1.00pm</b></p></td>
       <td><p style="text-align: justify"><b>Panel discussion topic: Opportunities and Challenges of the Multifaceted International Commercial Dispute Resolution Mechanisms</b></p>
       <ul>
         <p style="text-align: justify">Moderator: Representative from Singapore</p>
@@ -77,7 +77,7 @@ table tr td ul li {font-size: 1rem;}
     </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>3.00pm - 4.00pm</b></p></td>
+      <td><p style="text-align: justify"><b>1.00pm - 2.00pm</b></p></td>
       <td><p style="text-align: justify"><b>Panel discussion topic: The Future of Technology and Artificial Intelligence in Courts</b></p>
       <ul>
       <p style="text-align: justify">Moderator: Representative from Singapore</p>
@@ -86,7 +86,7 @@ table tr td ul li {font-size: 1rem;}
    </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>4.00pm – 4.30pm</b></p></td>
+      <td><p style="text-align: justify"><b>2.00pm – 2.30pm</b></p></td>
       <td><p style="text-align: justify"><b>Closing Ceremony</b></p>
       <ul>
       <p style="text-align: justify">Moderator: Representative from Singapore</p>
