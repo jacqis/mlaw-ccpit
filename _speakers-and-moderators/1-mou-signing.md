@@ -15,7 +15,7 @@ Dr. Liu joined CCPIT in November 2014 to set up the new Legal Affairs Department
 
 Dr. Liu holds doctoral degree in Law and Economics and acts as an arbitrator of China International Economic and Trade Arbitration Commission (CIETAC) and China Maritime Arbitration Commission (CMAC).
 
-## Signees
+## Signatories
 
 ### Calvin Phua
 **Deputy Secretary<br>
@@ -35,3 +35,11 @@ Second Minister for Law**
 ### Gao Yan
 **Chairman<br>
 China Council for the Promotion of International Trade**<br>
+
+### Justice Quentin Loh
+**President<br>
+Singapore International Commercial Court**<br>
+
+### Justice Zhang Yuejiao
+**Honorary Chairperson<br>
+ICDPASO**<br>
