@@ -5,7 +5,7 @@ permalink: /conference/programme/
 
 <style>
 table tr td ul li {font-size: 1rem;}
-.horizontal-scroll table tr td p {
+.no-top-bot-margin .confirm-no-margin .dw-margin .fight-margin .horizontal-scroll table tr td p {
             font-size: 1rem;
             margin-top: 0;
             margin-bottom:0;
@@ -18,7 +18,7 @@ table tr th p {font-size: 1rem;}
 
 ---
 
-<table>
+<table class="no-top-bot-margin confirm-no-margin dw-margin fight-margin">
   <tr>
     <th>
       <p style="text-align: justify"><b>Time</b></p>
