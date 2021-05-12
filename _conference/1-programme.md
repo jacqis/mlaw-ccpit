@@ -5,12 +5,12 @@ permalink: /conference/programme/
 
 <style>
 table tr td ul li {font-size: 1rem;}
-  .horizontal-scroll table tr td p {
+.col .is-8 .is-offset-1-desktop .is-12-touch .print-content .horizontal-scroll table tr td p {
             font-size: 1rem;
             margin-top: 0;
             margin-bottom:0;
   }
-  table tr th p {font-size: 1rem;}
+table tr th p {font-size: 1rem;}
 </style>
 
 
