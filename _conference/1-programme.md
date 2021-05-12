@@ -4,9 +4,9 @@ permalink: /conference/programme/
 ---
 
 <style>
-table tr td ul li {font-size: 1rem; line-height:1.5rem;}
-  table tr td p {font-size: 1rem; line-height:1.5rem;}
-  table tr th p {font-size: 1rem; line-height:1.5rem;}
+table tr td ul li {font-size: 1rem;}
+  table tr td p {font-size: 1rem;}
+  table tr th p {font-size: 1rem;}
 </style>
 
 
