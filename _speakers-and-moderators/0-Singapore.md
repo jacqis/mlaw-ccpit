@@ -1,6 +1,6 @@
 ---
-title: Opening Ceremony
-permalink: /speakers-and-moderators/opening-ceremony/
+title: Singapore
+permalink: /speakers-and-moderators/Singapore/
 ---
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
 
