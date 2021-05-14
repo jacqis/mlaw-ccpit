@@ -66,23 +66,9 @@ The executive committee of the SCCA is made up of volunteer in-house lawyers, an
   <img src="/images/scma-logo.jpeg" title="SCMA" alt="SCMA">
 </div>
 
-The Singapore Chamber of Maritime Arbitration (SCMA) is one of Asia’s leading arbitration centres. SCMA provides a framework for maritime and international trade arbitration that is responsive to the needs of users. Together with SCMA’s specialized Panel of Arbitrators and proven track record, SCMA offers parties a neutral and cost-effective forum to resolve their disputes expeditiously.
+The Singapore Chamber of Maritime Arbitration is a specialist arbitration institution which provides a neutral, cost-effective and flexible framework for maritime and international trade arbitrations that is responsive to the needs of industry users. Its global and regional members hail from all sectors of maritime, trade and arbitration communities. SCMA attracts disputants in the region by providing tailored solutions to suit the region’s interests.
 
-SCMA’s Advantage and Distinctive Features:<br>
-
-• Flexible, Un-Administered Model: SCMA adopts an un-administered arbitration approach. Its “light-touch” management is preferred by the global shipping and trading communities and allows parties the full benefits of time and flexibility to resolve their disputes.<br>
-
-• Panel of Maritime Expertise: SCMA has one of the largest panels of specialized maritime arbitrators in Asia. SCMA’s arbitrators are of diverse nationalities and jurisdictions. Although not mandatory, parties may choose to appoint an arbitrator from SCMA’s panel.<br>
-
-• Cost-Effectiveness: SCMA does not charge administration fees nor is there a mandatory scale of arbitrators’ fees. Parties may agree upon rates with the arbitrator.<br>
-
-• Usability: Singapore is listed as one of the three seats of choice for arbitration in BIMCO’s dispute resolution clause, the NYPE Time Charter Party of 2015 and Singapore Ship Sale Form.<br>
-
-• Rules that Reflect the Needs of the Users: SCMA’s rules are simple and kept current with feedback from the industry. Some of the latest features of our rules include the Arb-Med-Arb Clause and Small Claims Procedure for claims under the sum of USD 150,000.<br>
-
-• Enforceable and Final Awards: Singapore is a signatory to the 1958 New York Convention. Arbitral awards issued in Singapore are therefore enforceable in over 150 UN Member States.<br>
-
-• Inclusive Membership Base: Membership of the SCMA is open to companies and individuals from all sectors of the maritime and international trade communities.
+The Secretariat helms the promotion and development of SCMA across the region. The Secretariat also leads educational and training symposiums to foster thought leadership and encourage pragmatic solutions for maritime and trade businesses. The Registrar and Assistant Registrar provide on-demand administrative support to disputants and tribunals.
 
 ### Singapore International Arbitration Centre (SIAC)
 
