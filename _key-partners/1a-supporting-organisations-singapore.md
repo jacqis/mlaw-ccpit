@@ -56,9 +56,9 @@ For more information on The Law Society of Singapore, please visit [www.lawsocie
   <img src="/images/scca-logo.png" title="SCCA" alt="SCCA">
 </div>
 
-Established in 2002, the Singapore Corporate Counsel Association is the national organisation for corporate counsel in Singapore. SCCA promotes professional standards and provides developmental opportunities to help in-house lawyers in Singapore be Better Counsel. SCCA believes that Better Counsel make Better Corporations, and, in turn, Better Corporations make Better Communities.
+The Singapore Corporate Counsel Association Limited is the pioneer national organisation representing the interests of in-house lawyers working for companies and other entities based in Singapore.
 
-The executive committee of the SCCA is made up of volunteer in-house lawyers, and they are advised by SCCA’s Patron, the Attorney General of Singapore, who is also the chairman of the Board of Advisors. In 2017, SCCA launched its Competency Framework and Code of Conduct for corporate counsel.
+We are committed to providing the suppport and elevation to the needs of in-house lawyers around the world through its close-knit global alliances. With an ever-growing membership and connections, it prides in building reputable regional training programs, leadership and industry conversations, legal counsel career toolkits, competency frameworks encompassing technical knowledge, skills, and the required right attitude and character for corporate lawyers.
 
 ### Singapore Chamber of Maritime Arbitration (SCMA)
 
@@ -130,8 +130,6 @@ Email: secretariat@simc.com.sg<br>
 Website: [www.simc.com.sg](www.simc.com.sg)<br>
 
 ### Singapore International Mediation Institute (SIMI)
-
-
 
 
 
