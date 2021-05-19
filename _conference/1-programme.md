@@ -31,7 +31,6 @@ table tr th p {font-size: 1rem;}
     <td><p style="text-align: justify"><b>9.30am - 10.30am</b></p></td>
     <td><b>Opening Ceremony</b>
       <ul>
-        <p style="text-align: justify"><i>Hybrid, with in-person and digital audience</i></p><br>
         <p style="text-align: justify"><b>Short opening remarks by Moderator</b></p>
         <p style="text-align: justify">Moderated by CCPIT Vice Chairman Mr Lu Pengqi</p><br>
       	<p style="text-align: justify"><b>Speech by Singapore Guest of Honour</b></p>
@@ -49,7 +48,6 @@ table tr th p {font-size: 1rem;}
     <td><p style="text-align: justify"><b>10.30am - 10.45am</b></p></td>
     <td><p style="text-align: justify"><b>MOU Signing Ceremony</b></p>
       <ul>
-        <p style="text-align: justify"><i>Hybrid, with in-person and digital audience</i></p><br>
         <p style="text-align: justify"><b>MOU between MinLaw and CCPIT on organising joint annual conference</b></p>
         <p style="text-align: justify">MOU moderator: CCPIT Director General of Legal Affairs Department Mr Liu Chao</p>
         <p style="text-align: justify">Signatories: MinLaw Deputy Secretary Mr Calvin Phua and CCPIT Vice Chairman Mr Lu Pengqi</p>
