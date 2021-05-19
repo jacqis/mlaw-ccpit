@@ -131,9 +131,7 @@ Website: [www.simc.com.sg](www.simc.com.sg)<br>
 
 ### Singapore International Mediation Institute (SIMI)
 
-<div class="img-logo">
-  <img src="/images/simi-logo.jpeg" title="SIMI" alt="SIMI">
-</div>
+
 
 The Singapore International Mediation Institute (SIMI) is an independent professional standards body for mediation in Singapore and the region.
 
