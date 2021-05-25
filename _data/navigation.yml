@@ -15,8 +15,6 @@ links:
     collection: speakers-and-moderators
   - title: Organisers and Partners
     collection: key-partners
-  - title: News
-    resource_room: true
   - title: Past Conference
     url: /past-conference/
   - title: 中文
