@@ -2,6 +2,9 @@
 title: Programme
 permalink: /conference/programme/
 ---
+<style>
+table tr td ul li {font-size: 1rem;}
+</style>
 
 ## Programme Outline
 
