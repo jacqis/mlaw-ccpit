@@ -20,6 +20,10 @@ sections:
             - title: Conference Livestream (CN)
               description: Click here to visit the conference livestream in Chinese
               url: https://gmail.com
+    - resources:
+        title: Media
+        subtitle: Learn more
+        button: View More
             
 
 ---
