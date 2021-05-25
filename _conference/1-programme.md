@@ -21,79 +21,79 @@ table tr th p {font-size: 1rem;}
 <table>
   <tr>
     <th>
-      <p style="text-align: justify"><b>Time</b></p>
+      <b>Time</b>
     </th>
     <th>
-      <p style="text-align: justify"><b>Content</b></p>
+      <b>Content</b>
     </th>
   </tr>
   <tr>
-    <td><p style="text-align: justify"><b>9.30am - 10.30am</b></p></td>
+    <td><b>9.30am - 10.30am</b></td>
     <td><b>Opening Ceremony</b>
       <ul>
-        <p style="text-align: justify"><b>Short opening remarks by Moderator</b></p>
-        <p style="text-align: justify">Moderated by CCPIT Vice Chairman Mr Lu Pengqi</p><br>
-      	<p style="text-align: justify"><b>Speech by Singapore Guest of Honour</b></p>
-     	  <p style="text-align: justify">Singapore: Minister for Culture, Community and Youth and Second Minister for Law Mr Edwin Tong</p><br>
-        <p style="text-align: justify"><b>Speech by Chinese Guest of Honour</b></p>
- 	      <p style="text-align: justify">China: CCPIT Chairperson Mdm Gao Yan/other ministerial level rep</p><br>
-        <p style="text-align: justify"><b>Speech by Singapore speaker</b></p><br>
-        <p style="text-align: justify">President of SICC and Judge of Appellate Court Justice Quentin Loh</p>
-      	<p style="text-align: justify"><b>Speech by China speaker</b></p>
-      	<p style="text-align: justify">ICDPASO Honorary Chairperson Justice Zhang Yuejiao</p>
+        <b>Short opening remarks by Moderator</b>
+        Moderated by CCPIT Vice Chairman Mr Lu Pengqi<br>
+      	<b>Speech by Singapore Guest of Honour</b>
+     	  Singapore: Minister for Culture, Community and Youth and Second Minister for Law Mr Edwin Tong<br>
+        <b>Speech by Chinese Guest of Honour</b>
+ 	      China: CCPIT Chairperson Mdm Gao Yan/other ministerial level rep<br>
+        <b>Speech by Singapore speaker</b><br>
+        President of SICC and Judge of Appellate Court Justice Quentin Loh
+      	<b>Speech by China speaker</b>
+      	ICDPASO Honorary Chairperson Justice Zhang Yuejiao
      </ul>
     </td>
   </tr>
   <tr>
-    <td><p style="text-align: justify"><b>10.30am - 10.45am</b></p></td>
-    <td><p style="text-align: justify"><b>MOU Signing Ceremony</b></p>
+    <td><b>10.30am - 10.45am</b></td>
+    <td><b>MOU Signing Ceremony</b>
       <ul>
-        <p style="text-align: justify"><b>MOU between MinLaw and CCPIT on organising joint annual conference</b></p>
-        <p style="text-align: justify">MOU moderator: CCPIT Director General of Legal Affairs Department Mr Liu Chao</p>
-        <p style="text-align: justify">Signatories: MinLaw Deputy Secretary Mr Calvin Phua and CCPIT Vice Chairman Mr Lu Pengqi</p>
- 	      <p style="text-align: justify">Witnesses: Min(CCY)&2M(Law) Mr Edwin Tong, CCPIT Chairperson Mdm Gao Yan, Justice Quentin Loh and Justice Zhang Yuejiao</p>
+        <b>MOU between MinLaw and CCPIT on organising joint annual conference</b>
+        MOU moderator: CCPIT Director General of Legal Affairs Department Mr Liu Chao
+        Signatories: MinLaw Deputy Secretary Mr Calvin Phua and CCPIT Vice Chairman Mr Lu Pengqi
+ 	      Witnesses: Min(CCY)&2M(Law) Mr Edwin Tong, CCPIT Chairperson Mdm Gao Yan, Justice Quentin Loh and Justice Zhang Yuejiao
       </ul>
     </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>10.45am - 11.00am</b></p></td>
-      <td><p style="text-align: justify"><b>Streaming of videos from organisers and supporting organisations</b></p>
+      <td><b>10.45am - 11.00am</b></td>
+      <td><b>Streaming of videos from organisers and supporting organisations</b>
       </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>11.00am - 12.00pm</b></p></td>
-      <td><p style="text-align: justify"><b>Panel discussion topic: Multiple Functions of Prevention Mechanisms in International Commercial Disputes</b></p>
+      <td><b>11.00am - 12.00pm</b></td>
+      <td><b>Panel discussion topic: Multiple Functions of Prevention Mechanisms in International Commercial Disputes</b>
       <ul>
-        <p style="text-align: justify">Moderator: Dr. Chen Jian, Full-time Standing Deputy Secretary-General of China Academy of Arbitration Law</p>
-        <p style="text-align: justify">Speakers: 2 speakers each from China and Singapore</p>
+        Moderator: Dr. Chen Jian, Full-time Standing Deputy Secretary-General of China Academy of Arbitration Law
+        Speakers: 2 speakers each from China and Singapore
       </ul>
     </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>12.00pm - 1.00pm</b></p></td>
-      <td><p style="text-align: justify"><b>Panel discussion topic: Opportunities and Challenges of the Multifaceted International Commercial Dispute Resolution Mechanisms</b></p>
+      <td><b>12.00pm - 1.00pm</b></td>
+      <td><b>Panel discussion topic: Opportunities and Challenges of the Multifaceted International Commercial Dispute Resolution Mechanisms</b>
       <ul>
-        <p style="text-align: justify">Moderator: Representative from Singapore</p>
-        <p style="text-align: justify">Speakers: 1 Chinese speaker, 1 Singapore speaker and 2 international speakers</p>
+        Moderator: Representative from Singapore
+        Speakers: 1 Chinese speaker, 1 Singapore speaker and 2 international speakers
      </ul>
     </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>1.00pm - 2.00pm</b></p></td>
-      <td><p style="text-align: justify"><b>Panel discussion topic: The Future of Technology and Artificial Intelligence in Courts</b></p>
+      <td><b>1.00pm - 2.00pm</b></td>
+      <td><b>Panel discussion topic: The Future of Technology and Artificial Intelligence in Courts</b>
       <ul>
-      <p style="text-align: justify">Moderator: Representative from Singapore</p>
-      <p style="text-align: justify">Speakers: 2 speakers each from China and Singapore</p>
+      Moderator: Representative from Singapore
+      Speakers: 2 speakers each from China and Singapore
     </ul>
    </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>2.00pm – 2.30pm</b></p></td>
-      <td><p style="text-align: justify"><b>Closing Ceremony</b></p>
+      <td><b>2.00pm – 2.30pm</b></td>
+      <td><b>Closing Ceremony</b>
       <ul>
-      <p style="text-align: justify">Moderator: Representative from Singapore</p>
-      <p style="text-align: justify">Speech by representative from China</p>
-      <p style="text-align: justify">Speech by representative from Singapore</p>
+      Moderator: Representative from Singapore
+      Speech by representative from China
+      Speech by representative from Singapore
     </ul>
    </td>
   </tr>
