@@ -97,7 +97,7 @@ permalink: /conference/programme/
         <ul>
           <li>China representative (to be confirmed)</li>
           <li>Mr Tan Ken Hwee, Chief Transformation and Innovation Officer (Judiciary), Supreme Court of Singapore</li>
-          <li>China representative (to be confirmed)F</li>
+          <li>China representative (to be confirmed)</li>
           <li>Mr Gilbert Leong, Senior Partner, Dentons Rodyk</li>  
         </ul>
       </td>
