@@ -9,7 +9,7 @@ sections:
     - hero:
         background: /images/icdrc-banner.jpg
         button: Registration Form
-        url: https://form.gov.sg/60a3368267fcaf0011ff4922{:target="_blank"}
+        url: https://form.gov.sg/60a3368267fcaf0011ff4922
         key_highlights:
             - title: Conference Livestream (Original Audio)
               description: Click here to visit the conference livestream in Original Audio
