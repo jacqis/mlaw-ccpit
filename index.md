@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore-China International Dispute Resolution Conference 2021
-description: Brief site description here
+description: Singapore-China International Dispute Resolution Conference 2021
 image: /images/isomer-logo.svg
 permalink: /
 
