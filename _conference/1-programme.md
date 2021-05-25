@@ -29,8 +29,9 @@ table tr th p {font-size: 1rem;}
   </tr>
   <tr>
     <td><b>9.30am - 10.30am</b></td>
-    <td><b>Opening Ceremony</b>
+    <td><b>Opening Ceremony</b><br>
     Moderator: Mr Lu Pengqi, Vice Chairperson, China Council for the Promotion of International Trade <br>
+    <br>
     Speakers: <br>
       <ul>
         <li>Mr Edwin Tong SC, Minister for Culture, Community and Youth, and Second Minister for Law</li>
@@ -42,7 +43,7 @@ table tr th p {font-size: 1rem;}
   </tr>
   <tr>
     <td><b>10.30am - 10.45am</b></td>
-    <td><b>MOU Signing Ceremony</b>
+    <td><b>MOU Signing Ceremony</b><br>
       Moderator: Mr Liu Chao, Director General of Legal Affairs, China Council for the Promotion of International Trade <br>
       <br>
       Signatories: <br>
@@ -59,15 +60,20 @@ table tr th p {font-size: 1rem;}
   </tr>
     <tr>
       <td><b>10.45am - 11.00am</b></td>
-      <td><b>Streaming of videos from organisers and supporting organisations</b>
+      <td><b>Break</b>
       </td>
   </tr>
     <tr>
       <td><b>11.00am - 12.00pm</b></td>
-      <td><b>Panel discussion topic: Multiple Functions of Prevention Mechanisms in International Commercial Disputes</b>
+      <td><b>Panel 1: Multiple Functions of Prevention Mechanisms in International Commercial Disputes</b><br>
+      <br>
+      Moderator: Dr. Chen Jian, Full-time Standing Deputy Secretary-General, China Academy of Arbitration Law <br>
+      Speakers:
       <ul>
-        Moderator: Dr. Chen Jian, Full-time Standing Deputy Secretary-General of China Academy of Arbitration Law
-        Speakers: 2 speakers each from China and Singapore
+        <li> Singapore representative (to be confirmed) </li> 
+        <li> China representative (to be confirmed) </li>
+        <li>Mr Chan Hock Keng, Joint Head of Commercial & Corporate Disputes Practice and Partner in International Arbitration Practice, WongPartnership LLP</li>
+        <li>China representative (to be confirmed)</li>
       </ul>
     </td>
   </tr>
