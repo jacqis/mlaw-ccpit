@@ -43,11 +43,17 @@ table tr th p {font-size: 1rem;}
   <tr>
     <td><b>10.30am - 10.45am</b></td>
     <td><b>MOU Signing Ceremony</b>
+      Moderator: Mr Liu Chao, Director General of Legal Affairs, China Council for the Promotion of International Trade <br>
+      <br>
+      Signatories: <br>
       <ul>
-        <b>MOU between MinLaw and CCPIT on organising joint annual conference</b>
-        MOU moderator: CCPIT Director General of Legal Affairs Department Mr Liu Chao
-        Signatories: MinLaw Deputy Secretary Mr Calvin Phua and CCPIT Vice Chairman Mr Lu Pengqi
- 	      Witnesses: Min(CCY)&2M(Law) Mr Edwin Tong, CCPIT Chairperson Mdm Gao Yan, Justice Quentin Loh and Justice Zhang Yuejiao
+        <li>Mr Calvin Phua, Deputy Secretary, Ministry of Law</li>
+        <li>Mr Lu Pengqi, Vice Chairman, China Council for the Promotion of International Trade</li>
+      </ul>
+      Witnesses: <br>
+      <ul>
+        <li>Mr Edwin Tong SC, Minister for Culture, Community and Youth, and Second Minister for Law</li>
+        <li>Mdm Gao Yan, Chairperson, China Council for the Promotion of International Trade</li>
       </ul>
     </td>
   </tr>
