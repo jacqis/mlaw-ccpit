@@ -30,17 +30,13 @@ table tr th p {font-size: 1rem;}
   <tr>
     <td><b>9.30am - 10.30am</b></td>
     <td><b>Opening Ceremony</b>
+    Moderator: Mr Lu Pengqi, Vice Chairperson, China Council for the Promotion of International Trade <br>
+    Speakers: <br>
       <ul>
-        <b>Short opening remarks by Moderator</b>
-        Moderated by CCPIT Vice Chairman Mr Lu Pengqi<br>
-      	<b>Speech by Singapore Guest of Honour</b>
-     	  Singapore: Minister for Culture, Community and Youth and Second Minister for Law Mr Edwin Tong<br>
-        <b>Speech by Chinese Guest of Honour</b>
- 	      China: CCPIT Chairperson Mdm Gao Yan/other ministerial level rep<br>
-        <b>Speech by Singapore speaker</b><br>
-        President of SICC and Judge of Appellate Court Justice Quentin Loh
-      	<b>Speech by China speaker</b>
-      	ICDPASO Honorary Chairperson Justice Zhang Yuejiao
+        <li>Mr Edwin Tong SC, Minister for Culture, Community and Youth, and Second Minister for Law</li>
+        <li>Mdm Gao Yan, Chairperson, China Council for the Promotion of International Trade</li>
+        <li>Justice Quentin Loh, President, Singapore International Commercial Court; Judge, Appellate Division, Supreme Court of Singapore</li>
+        <li>Justice Zhang Yuejiao, Honorary Chairperson, International Commercial Dispute Prevention and Resolution Organisation</li>
      </ul>
     </td>
   </tr>
