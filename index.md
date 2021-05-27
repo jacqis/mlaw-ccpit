@@ -7,7 +7,7 @@ permalink: /
 
 sections:
     - hero:
-        background: /images/icdrc-banner.jpg
+        background: /images/CCPIT-HeroBanner-27May21.jpg
         button: Registration Form
         url: https://form.gov.sg/60a3368267fcaf0011ff4922
         key_highlights:
