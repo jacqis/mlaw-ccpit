@@ -29,7 +29,7 @@ MinLaw drives legal reforms, oversees the policy for development, promotion and 
 
 In addition, MinLaw regulates moneylending and pawnbroking, licences law practices, registers foreign-qualified legal practitioners, supervises precious stones and metal dealers, and provides community legal services such as legal aid, community mediation, insolvency administration, and public trustee services.
 
-MinLaw also oversees land policy and administration, and the development of Singapore’s intellectual property sector supported by its statutory boards.
+MinLaw also oversees land policy and administration and the development of Singapore’s intellectual property sector, supported by its statutory boards.
 
 For more information, please visit MinLaw’s website [here](https://www.mlaw.gov.sg/).
 
