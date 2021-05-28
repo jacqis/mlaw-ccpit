@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore-China International Dispute Resolution Conference 2021
 description: Singapore-China International Dispute Resolution Conference 2021
-image: /images/CCPIT-House-Blue.png
+image: /images/CCPIT-House-Blue2.png
 permalink: /
 
 sections:
