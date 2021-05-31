@@ -94,18 +94,11 @@ SIAC’s administration fees are highly competitive.
   <img src="/images/sicc-logo.png" title="SICC" alt="SICC">
 </div>
 
-The Singapore International Commercial Court (SICC) was established in 2015 to meet the growing demand for effective transnational dispute resolution services, especially in light of burgeoning business and trade in Asia and beyond. Due to Singapore’s strategic location in the Asia Pacific region, the SICC is well-placed to provide a trusted neutral venue in support of the diverse Belt and Road Initiatives as our world-class judiciary is known for its efficiency, competence and integrity. The SICC bench comprises a diverse panel of eminent international and local judges who are experienced specialist commercial judges in their own right. Our 16 renowned international judges hail from various parts of the world and come from both civil law and common law traditions.
+The Singapore International Commercial Court (SICC) was established to meet the growing demand for effective transnational dispute resolution services in Asia and beyond. Due to Singapore’s strategic location, the SICC is well-placed to provide a trusted neutral venue in support of the diverse Belt and Road Initiatives as our world-class judiciary is known for its efficiency, competence and integrity. The SICC bench comprises a diverse panel of eminent international and local judges who are experienced specialist commercial judges in their own right.  An important feature of the SICC is that it allows foreign lawyers to represent parties in certain circumstances, so long as they are registered with the Court and subject themselves to a Code of Ethics.
 
-An important feature of the SICC is that it allows foreign lawyers to represent parties in certain circumstances, so long as they are registered with the Court
-and subject themselves to a Code of Ethics.
+The SICC adopts international best practices for commercial disputes. Its procedures are flexible and may be tailored to suit parties’ preferences in several aspects. Yet, the SICC retains advantages of litigation like the availability of appeal and interim measures.  Published judgments with clear grounds of decision will also aid in future disputes of a similar nature.  And most vital in multi-party/multi-contract scenarios: the ability to join third and related parties. Finally, parties having their disputes adjudicated at the SICC will find that court fees are quite cost-effective.
 
-The SICC adopts international best practices for commercial disputes. Its procedures are flexible and may be tailored to suit parties’ preferences in several aspects. These include the ability to apply for confidentiality orders, adopt rules of evidence such as the International Bar Association (IBA) Rules on the Taking of Evidence in International Arbitration, and document production rules that are similar to those used in international arbitration instead of general discovery.
-
-Yet, the SICC retains advantages of litigation like the availability of appeal and interim measures. Published judgments with clear grounds of decision will also aid in future disputes of a similar nature. And most vital in multi-party/multi-contract scenarios: the ability to join third and related parties. Finally, parties having their disputes adjudicated at the SICC will find that court fees are quite cost-effective.
-
-In essence, the SICC gives parties a truly unique dispute resolution option – which has been described by some as “arbitration in litigation”, combining the best practices of international arbitration with the substantive principles of international commercial law.
-
-For more information about the SICC, please visit [www.sicc.gov.sg](www.sicc.gov.sg) or email SICC_Development@supcourt.gov.sg.
+In essence, the SICC gives parties a truly unique dispute resolution option – which has been described by some as “arbitration in litigation”, combining the best practices of international arbitration with the substantive principles of international commercial law. For more information about the SICC, please visit [www.sicc.gov.sg](www.sicc.gov.sg) or email SICC_Development@supcourt.gov.sg.
 
 ### Singapore International Mediation Centre (SIMC)
 
